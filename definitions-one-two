@@ -1,5 +1,5 @@
-const word=["statement","expression","operator","variable","constant","conditional","loop","function","parameters","class","object","property","method","event","array","object literal"];
-const sentence=["line of code ends in semicolon","code that evaluates to an object","symbols like +, *, =, ==","stores an object with const or let",
+const one=["statement","expression","operator","variable","constant","conditional","loop","function","parameters","class","object","property","method","event","array","object literal"];
+const two=["line of code ends in semicolon","code that evaluates to an object","symbols like +, *, =, ==","stores an object with const or let",
            "a value that will not change","an if statement (plus else and elseif)","repeats a block of code (for)",
            "a block of code that can be run","used to pass information to functions","a template to make an object",
            "a thing made from a class","a variable that belongs to object","a function that belongs to object","capture when something happens","a list of objects","a holder for properties and values"];
